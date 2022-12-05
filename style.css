@@ -112,7 +112,7 @@ a {
 
 @media screen and (min-width: 992px) {
   .center {
-    width: 98vw;
+    width: 80vw;
     padding: 0 1rem;
   }
 }
@@ -120,7 +120,7 @@ a {
 /* -------other global-------- */
 
 .section {
-  padding: 4rem 0;
+  padding: 5rem 0;
 }
 
 .btn {
@@ -480,20 +480,6 @@ a {
 }
 
 /* -------------------------sign--------------------------- */
-/* <section class="section section-sign">
-    <div class="center form-container">
-    <article class="sign-title">
-      <h3>Want Latest Tour Info And Updates?</h3>
-      <p>Sign up for newsletter and stay up to date</p>
-    </article>
-    <article class="sign-form">
-      <form action="" class="form-input">
-        <input type="email" class="form-control">
-        <a type="submit" class="form-submit" href="">submit</a>
-      </form>
-    </article>
-    </div>
-  </section> */
 
 .section-sign {
   background: var(--clr-primary3);
