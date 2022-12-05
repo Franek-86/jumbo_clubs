@@ -159,6 +159,7 @@ a {
   width: 100%;
   background: var(--clr-white);
   box-shadow: var(--light-shadow);
+  z-index: 999;
 }
 .nav-center {
   padding: 0.9rem 1.75rem;
