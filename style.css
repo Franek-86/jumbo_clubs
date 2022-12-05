@@ -252,7 +252,7 @@ a {
 @media screen and (min-width: 768px) {
   .hero {
     background: linear-gradient(rgba(179, 115, 0, 0.9), rgba(64, 64, 64, 0.9)),
-      url(./images/pexels-maurício-mascaro-1154189.jpg) center/cover no-repeat;
+      url(./images/p-gall5.jpg) center/cover no-repeat;
   }
   .hero-banner {
     width: 80%;
@@ -609,8 +609,7 @@ a {
   background: url(./images/p-gall4.jpg) center/cover no-repeat;
 }
 .gallery-img-5 {
-  background: url(./images/pexels-maurício-mascaro-1154189.jpg) center/cover
-    no-repeat;
+  background: url(./images/p-gall5.jpg) center/cover no-repeat;
 }
 .gallery-img-6 {
   background: url(./images/p-gall1.jpg) center/cover no-repeat;
